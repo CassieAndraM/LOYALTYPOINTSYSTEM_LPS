@@ -1,0 +1,15 @@
+C:\Users\cassandra\source\repos\LPSDataLayer\bin\Debug\net6.0\LPSDataLayer.deps.json
+C:\Users\cassandra\source\repos\LPSDataLayer\bin\Debug\net6.0\LPSDataLayer.dll
+C:\Users\cassandra\source\repos\LPSDataLayer\bin\Debug\net6.0\LPSDataLayer.pdb
+C:\Users\cassandra\source\repos\LPSDataLayer\bin\Debug\net6.0\LPSApplayer.dll
+C:\Users\cassandra\source\repos\LPSDataLayer\bin\Debug\net6.0\LPSApplayer.pdb
+C:\Users\cassandra\source\repos\LPSDataLayer\obj\Debug\net6.0\LPSDataLayer.csproj.AssemblyReference.cache
+C:\Users\cassandra\source\repos\LPSDataLayer\obj\Debug\net6.0\LPSDataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cassandra\source\repos\LPSDataLayer\obj\Debug\net6.0\LPSDataLayer.AssemblyInfoInputs.cache
+C:\Users\cassandra\source\repos\LPSDataLayer\obj\Debug\net6.0\LPSDataLayer.AssemblyInfo.cs
+C:\Users\cassandra\source\repos\LPSDataLayer\obj\Debug\net6.0\LPSDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\cassandra\source\repos\LPSDataLayer\obj\Debug\net6.0\LPSDataLayer.csproj.CopyComplete
+C:\Users\cassandra\source\repos\LPSDataLayer\obj\Debug\net6.0\LPSDataLayer.dll
+C:\Users\cassandra\source\repos\LPSDataLayer\obj\Debug\net6.0\refint\LPSDataLayer.dll
+C:\Users\cassandra\source\repos\LPSDataLayer\obj\Debug\net6.0\LPSDataLayer.pdb
+C:\Users\cassandra\source\repos\LPSDataLayer\obj\Debug\net6.0\ref\LPSDataLayer.dll

@@ -1,0 +1,12 @@
+C:\Users\cassandra\source\repos\LPSApplayer\bin\Debug\net6.0\LPSApplayer.deps.json
+C:\Users\cassandra\source\repos\LPSApplayer\bin\Debug\net6.0\LPSApplayer.dll
+C:\Users\cassandra\source\repos\LPSApplayer\bin\Debug\net6.0\LPSApplayer.pdb
+C:\Users\cassandra\source\repos\LPSApplayer\obj\Debug\net6.0\LPSApplayer.csproj.AssemblyReference.cache
+C:\Users\cassandra\source\repos\LPSApplayer\obj\Debug\net6.0\LPSApplayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cassandra\source\repos\LPSApplayer\obj\Debug\net6.0\LPSApplayer.AssemblyInfoInputs.cache
+C:\Users\cassandra\source\repos\LPSApplayer\obj\Debug\net6.0\LPSApplayer.AssemblyInfo.cs
+C:\Users\cassandra\source\repos\LPSApplayer\obj\Debug\net6.0\LPSApplayer.csproj.CoreCompileInputs.cache
+C:\Users\cassandra\source\repos\LPSApplayer\obj\Debug\net6.0\LPSApplayer.dll
+C:\Users\cassandra\source\repos\LPSApplayer\obj\Debug\net6.0\refint\LPSApplayer.dll
+C:\Users\cassandra\source\repos\LPSApplayer\obj\Debug\net6.0\LPSApplayer.pdb
+C:\Users\cassandra\source\repos\LPSApplayer\obj\Debug\net6.0\ref\LPSApplayer.dll
